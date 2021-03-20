@@ -6,8 +6,6 @@ library(DT)
 library(xts)
 library(dplyr)
 library(genius)
-library(parallel)
-
 
 ui <- shinyUI(fluidPage(
     titlePanel("Dre's App"),
